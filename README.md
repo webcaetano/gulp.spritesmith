@@ -154,6 +154,7 @@ The input/output streams interact with [vinyl-fs][] objects which are [gulp's][g
         - For example `{cssOpts: {functions: false}}` skips output of mixins
         - See your template's documentation for available options
             - https://github.com/twolfson/spritesheet-templates#templates
+    - numericSort `Boolean` - Enable filename numeric sort
 
 [SASS]: http://sass-lang.com/
 [SCSS]: http://sass-lang.com/
